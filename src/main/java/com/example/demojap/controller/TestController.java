@@ -38,6 +38,7 @@ public class TestController {
             advertisementClassifyDto.setAdvertisementclassifyid(advertisementClassify.getAdvertisementclassifyid());
             advertisementClassifyDtos.add(advertisementClassifyDto);
         }
+
         return advertisementClassifyDtos;
     }
 
