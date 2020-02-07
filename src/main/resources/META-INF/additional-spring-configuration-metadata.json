@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasoure.initial",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasoure.initial."
+  }
+] }
